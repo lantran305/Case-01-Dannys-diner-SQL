@@ -2,7 +2,7 @@
 
 ## 1. Business Context
 
-Danny's Diner is a restaurant serving three popular Japanese dishes: sushi, curry, and ramen. Danny wants to better understand customer purchasing behavior, spending patterns, and menu preferences to improve customer loyalty and deliver a more personalized dining experience.
+Danny's Diner is a restaurant serving three popular Japanese dishes: sushi, curry, and ramen. Danny wants to better understand **customer purchasing behavior**, spending patterns, and menu preferences to **improve customer loyalty** and deliver a more **personalized dining experience**.
 
 This project uses SQL to analyze transaction data and generate insights to support customer relationship management and loyalty program decisions.
 
